@@ -1,2 +1,2 @@
 # questochain
-blockchain infrastructure to preventing question leakage 
+blockchain infrastructure to prevent question leakage 
